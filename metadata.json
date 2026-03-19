@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Auth API Practice UI",
+  "description": "A login page with Email, Google, Apple, and GitHub options, set up with an Express backend for API practice.",
+  "requestFramePermissions": []
+}
